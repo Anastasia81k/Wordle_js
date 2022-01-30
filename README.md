@@ -1,9 +1,10 @@
 # Wordle_js
+![Иллюстрация к проекту](https://github.com/Anastasia81k/Wordle_js/blob/main/asserts/2.jpg)
+
 ![Иллюстрация к проекту](https://github.com/Anastasia81k/Wordle_js/blob/main/asserts/1.jpg)
 
-![Image alt](https://github.com/{username}/{repository}/raw/{branch}/{path}/image.png)
+![Иллюстрация к проекту](https://github.com/Anastasia81k/Wordle_js/blob/main/asserts/3.jpg)
 
-{username} — ваш ник на ГитХабе;
-{repository} — репозиторий где хранятся картинки;
-{branch} — ветка репозитория;
-{path} — путь к месту нахождения картинки.
+![Иллюстрация к проекту](https://github.com/Anastasia81k/Wordle_js/blob/main/asserts/4.jpg)
+
+![Иллюстрация к проекту](https://github.com/Anastasia81k/Wordle_js/blob/main/asserts/5.jpg)
