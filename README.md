@@ -1,5 +1,5 @@
 # Wordle_js
-![Иллюстрация к проекту](https://github.com/jon/coolproject/raw/master/image/image.png)
+![Иллюстрация к проекту](https://github.com/Anastasia81k/Wordle_js/raw/master/asserts/1.jpg)
 
 ![Image alt](https://github.com/{username}/{repository}/raw/{branch}/{path}/image.png)
 
