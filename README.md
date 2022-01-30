@@ -3,7 +3,7 @@
 
 Present to Your attention simple steps of playing in clone-game Wordle.
 
-In Wordle you're presented with five empty boxes, and you need to figure out which secret five-letter word fits in those boxes using no more than six guesses.
+As in Wordle, in clone-game you're presented with five empty boxes, and you need to figure out which secret five-letter word fits in those boxes using no more than six guesses.
 
 
 ![Иллюстрация к проекту](https://github.com/Anastasia81k/Wordle_js/blob/main/asserts/2.jpg)
